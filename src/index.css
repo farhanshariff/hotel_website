@@ -1,0 +1,35 @@
+#dropdown-basic-button {
+  background-color: #ce272e;
+  border-color: #d8120b;
+  margin-top: auto;
+}
+
+body {
+  background-color: #fde0e0;
+  color: white;
+}
+
+thead {
+  background-color: rgb(119, 92, 92);
+}
+
+tbody {
+  background-color: rgb(151, 146, 153);
+  font-weight: 700;
+}
+
+nav {
+  margin: auto;
+  padding-top: 10px;
+  height: 90px;
+  background-color: #ce272e;
+}
+table,
+th {
+  text-align: center;
+  border: 5px solid;
+  border-color: #fde0e0;
+}
+td {
+  text-align: center;
+}
